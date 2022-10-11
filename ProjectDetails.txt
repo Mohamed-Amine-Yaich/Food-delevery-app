@@ -1,0 +1,16 @@
+1)Introduction:
+we will use react native , react native navigation,redux,sanity(cms) 
+
+2)setps :
+-setting up Expo & Tailwind CSS (setup with babel) (create a project and install tail )
+- react navigation
+-bulding ui(home screen)
+-adding heroicons
+-adding sanity(getting start with installing the cli )
+
+
+
+*)to complete :
+-add link between you and your restaurant(google direction )
+-add payment 
+a user app that can be linked to a restaurant app and a driver app 
